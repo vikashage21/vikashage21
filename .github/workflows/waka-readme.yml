@@ -2,8 +2,11 @@ name: WakaTime Coding Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs once every day
+    - cron: "0 0 * * *" # Runs daily
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
