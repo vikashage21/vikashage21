@@ -46,6 +46,13 @@
 
 ---
 
+### 🐍 Watch My Contribution Snake Crawl Through My Commits
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vikashage21/vikashage21/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
