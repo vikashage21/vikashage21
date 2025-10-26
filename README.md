@@ -59,13 +59,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2025 - To: 24 October 2025
+From: 18 October 2025 - To: 25 October 2025
 
-Total Time: 1 hr 22 mins
+Total Time: 1 hr 53 mins
 
-JavaScript   1 hr 17 mins    ███████████████████████▓░   94.06 %
-HTML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-CSS          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+JavaScript   1 hr 48 mins    ████████████████████████░   95.67 %
+HTML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+CSS          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
