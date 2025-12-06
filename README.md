@@ -59,15 +59,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2025 - To: 04 December 2025
+From: 28 November 2025 - To: 05 December 2025
 
-Total Time: 22 hrs 33 mins
+Total Time: 16 hrs 8 mins
 
-JavaScript   20 hrs 20 mins  ██████████████████████▓░░   90.05 %
-CSS          1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-JSON         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-Git Config   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Bash         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+JavaScript   14 hrs 7 mins   █████████████████████▓░░░   87.32 %
+CSS          55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+JSON         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Git Config   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Bash         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
