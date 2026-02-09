@@ -59,15 +59,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2026 - To: 07 February 2026
+From: 01 February 2026 - To: 08 February 2026
 
-Total Time: 8 hrs 12 mins
+Total Time: 9 hrs 48 mins
 
-JavaScript   3 hrs 50 mins   ███████████▓░░░░░░░░░░░░░   46.89 %
-HTML         1 hr 42 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.84 %
-CSS          1 hr 32 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.80 %
-Bash         38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
-JSON         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+JavaScript   5 hrs 18 mins   █████████████▒░░░░░░░░░░░   53.76 %
+HTML         1 hr 38 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
+CSS          1 hr 32 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
+Bash         38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+JSON         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->
