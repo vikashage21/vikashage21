@@ -59,13 +59,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 June 2026 - To: 15 June 2026
+From: 09 June 2026 - To: 16 June 2026
 
-Total Time: 3 hrs 26 mins
+Total Time: 2 hrs 38 mins
 
-JavaScript   2 hrs 41 mins         ███████████████████▓░░░░░   78.24 %
-HTML         44 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.75 %
-JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript   2 hrs 23 mins         ██████████████████████▓░░   90.94 %
+HTML         14 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
 ```
 
 <!--END_SECTION:waka-->
