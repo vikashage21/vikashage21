@@ -15,7 +15,7 @@
 - 🌱 I’m learning **Data Structures & Algorithms (DSA) using JavaScript**
 - 🎯 My Goal: **To become a highly skilled Full Stack Developer**
 - 🧩 Fun Fact: I love **Powerlifting, Fitness, and Gaming**
-- 📫 How to reach me: **[vikashage21@gmail.com](mailto:vikashage21@gmail.com)**
+- 📫 How to reach me: **[vk220783@gmail.com](mailto:vikashage21@gmail.com)**
 
 ---
 
