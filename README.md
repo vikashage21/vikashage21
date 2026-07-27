@@ -26,7 +26,7 @@ I'm a passionate **MERN Stack Developer** who enjoys building modern, responsive
 * 💪 Fitness enthusiast and Powerlifting lover
 * 🎯 Goal: Become a world-class Full Stack Software Engineer
 * 📍 India
-* 📫 **Email:** **[vikashage21@gmail.com](mailto:vikashage21@gmail.com)**
+* 📫 **Email:** **[vk220783@gmail.com](mailto:vikashage21@gmail.com)**
 
 ---
 
